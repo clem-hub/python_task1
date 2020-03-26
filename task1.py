@@ -1,3 +1,4 @@
+# Basic calculator for area of a circle
 radius = input("Please enter radius of the circle:\n")
 radius = float(radius)
 pi = 3.14
